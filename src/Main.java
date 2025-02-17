@@ -4,5 +4,8 @@ public class Main {
         System.out.println("Hi how are you");
         System.out.println("Yet another line");
         System.out.println("Here's another line");
+
+        int x = 1;
+        System.out.println(x);
     }
 }
